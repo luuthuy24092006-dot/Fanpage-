@@ -342,4 +342,12 @@ footer {
     object-fit: cover;
 } */
 
+
 /* ... (các CSS khác ở dưới) ... */
+/* HERO SECTION */
+header {
+    /* Đảm bảo chữ M viết hoa */
+    background: url("Media/banner 1.png") left center/contain no-repeat;
+    
+    /* ... các quy tắc khác ... */
+}
